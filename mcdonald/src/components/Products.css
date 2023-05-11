@@ -41,7 +41,11 @@
 
 .dropdown-menu.show
 {
-    height: 500px;
-    width: 60.5rem;
+    height: 89px;
+    width: 50rem;
     box-shadow: 0 1.5rem 1rem #ffc107;
 }
+Button.variant{
+    background: #ffc107;
+}
+g
