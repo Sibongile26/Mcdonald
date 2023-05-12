@@ -1,7 +1,10 @@
-.Form{
-    border: solid #ffc107;
-}
+
 grid-container{
     padding: 3%;
     justify-content: auto
+}
+.test
+{
+    margin-left: 30%;
+    margin-top: 10%;
 }
