@@ -28,7 +28,8 @@ function Header() {
             <NavDropdown title="Signup" id="basic-nav-dropdown">
               <NavDropdown.Item href="/register">Register</NavDropdown.Item>
 
-              <NavDropdown.Item href="/">Login</NavDropdown.Item>
+
+              <NavDropdown.Item href="/Login">Login</NavDropdown.Item>
               <NavDropdown.Divider />
 
             </NavDropdown>

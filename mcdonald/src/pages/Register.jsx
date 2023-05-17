@@ -5,7 +5,6 @@ import Form from 'react-bootstrap/Form';
 import '../pages/Register.css'
 
 
-
 const Register = () => {
   return (
     <div>
