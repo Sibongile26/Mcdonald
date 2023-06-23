@@ -7,7 +7,7 @@ function Slider() {
       <Carousel.Item>
         <img
           className="d-block"
-          src="https://www.hotmenuprice.com/wp-content/uploads/2022/10/McDonalds-Menu-Price.jpg"
+          src="https://images.ctfassets.net/8x8155mjsjdj/1af9dvSFEPGCzaKvs8XQ5O/a7d4adc8f9573183394ef2853afeb0b6/Copy_of_Red_Wine_Blog_Post_Header.png"
           alt="First slide"
         />
         <Carousel.Caption>
@@ -18,7 +18,7 @@ function Slider() {
       <Carousel.Item>
         <img
           className="d-block"
-          src="https://south-african-menus.info/wp-content/uploads/2022/05/McDonalds-Menu-Prices.jpg"
+          src="https://ledecanter.com/wp-content/uploads/2022/07/11.jpeg"
           alt="Second slide"
         />
 
@@ -30,7 +30,7 @@ function Slider() {
       <Carousel.Item>
         <img
           className="d-block"
-          src="https://images.unsplash.com/photo-1619881589670-43629f0e90f1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjR8fE1jZG9uYWxkJTIwYnVyZ2VyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+          src="https://i0.wp.com/yearinwine.com/wp-content/uploads/2022/03/ezy-watermark_02-03-2022_04-54-23pm-scaled.jpg?resize=1920%2C960"
           alt="Third slide"
         />
 

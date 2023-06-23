@@ -23,7 +23,7 @@ function Products(props) {
                 }
             </div>
 
-            <img id='McImg' src="https://static.vecteezy.com/system/resources/previews/013/948/540/original/mcdonald-s-logo-on-transparent-white-background-free-vector.jpg" alt="" />
+            
 
         </>
 
